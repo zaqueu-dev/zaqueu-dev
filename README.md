@@ -50,7 +50,7 @@
 ---
 
 ### 🎵 Now Playing
-[![Spotify](https://novatorem-zaqueu-dev.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
+[![Spotify](https://novatorem-zaqueu-dev.vercel.app/api/spotify)](https://open.spotify.com/user/316gqsmoiyevygvpm5oduqtvyswm)
 
 ---
 
