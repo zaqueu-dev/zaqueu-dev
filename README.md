@@ -3,6 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&lines=Developer+%7C+Open-Source+Enthusiast+%7C+Linux+User;React.js+%7C+Next.js+%7C+Typescript;Building+Cool+Projects+With+Code;Studying+Computer+Science...)
 
 ---
+![gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDI4d2RlZGJnd2UzbDllc3FvaWFheW1pemVyY3M5dThuYm91dXg1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif)
 
 ### 🚀 About Me
 - 🔥 Passionate about **React.js** and **Arch Linux**
