@@ -1,6 +1,6 @@
 ### Hi there, I'm Zaqueu! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&lines=Developer+%7C+Open-Source+Enthusiast+%7C+Linux+User;React.js+%7C+Next.js+%7C+Arch+Linux;Building+Cool+Projects+With+Code...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&lines=Developer+%7C+Open-Source+Enthusiast+%7C+Linux+User;React.js+%7C+Next.js+%7C+Arch+Linux;Building+Cool+Projects+With+Code+%7C+Studying+Computer+Science...)
 
 ---
 
