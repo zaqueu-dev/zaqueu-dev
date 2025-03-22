@@ -40,10 +40,12 @@
 
 ---
 
-### 📫 Connect with Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+## 📬 Contact Me:
+<div align="center">  
+    <a href="mailto:zaqueunilton1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1f7a1f?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://web.telegram.org/k/#zaqueu-dev" target="_blank"><img src="https://img.shields.io/badge/Telegram-1f7a1f?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/zaqueunilton/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1f7a1f?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
 ---
 
