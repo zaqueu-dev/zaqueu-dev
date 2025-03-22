@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Your+Name;I'm+a+programming+and+technology+student;and+I'm+studying+Computer+Science.;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Zaqueu+Nilton;I'm+a+programming+and+technology+student;and+I'm+studying+Computer+Science.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ![cool-animation](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
 
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github&line_height=34&hide=contribs)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&hide=html&layout=compact&langs_count=10&theme=radical)
+  ![Zaqueu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaqueuNilton&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github&line_height=34&hide=contribs)
+  ![Zaqueu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaqueuNilton&hide=html&layout=compact&langs_count=10&theme=radical)
 </div>
 
 ## Technologies:
@@ -49,7 +49,7 @@
     <a href="https://web.telegram.org/k/#yourusername" target="_blank"><img src="https://img.shields.io/badge/Telegram-008000?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/yourprofile/" target="_blank"><img src="https://img.shields.io/badge/linkedin-008000.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
- ![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg)
+ ![snake gif](https://github.com/ZaqueuNilton/ZaqueuNilton/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer"/>
