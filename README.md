@@ -26,12 +26,12 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 
-## Other Technologies:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
+### Other Technologies:
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117)&nbsp;
 ![Golang](https://img.shields.io/badge/-Golang-0D1117?style=for-the-badge&logo=go&labelColor=0D1117)&nbsp;
 ![Apache Cordova](https://img.shields.io/badge/-Apache%20Cordova-0D1117?style=for-the-badge&logo=apache-cordova&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+
 
 ## ⚒ Tools:
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
@@ -49,7 +49,7 @@
     <a href="https://web.telegram.org/k/#isccnewt" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/zaqueunilton/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-![snake gif](https://github.com/zaqueu-dev/zaqueu-dev/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/davigledson/davigledson/blob/output/github-contribution-grid-snake-dark.svg)
     
 </div>
 
