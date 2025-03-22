@@ -56,11 +56,11 @@
 
 ## 📫 Connect with me:
 <div align="center">  
-    <a href = "mailto:davigledson1333@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-    <a href="https://web.telegram.org/k/#davigledson" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/davi-gledson-031128265/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:zaqueunilton1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+    <a href="https://web.telegram.org/k/#isccnewt" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/zaqueunilton/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ![snake gif](https://github.com/davigledson/davigledson/blob/output/github-contribution-grid-snake-dark.svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0063F0&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f96d00&height=120&section=footer"/>
