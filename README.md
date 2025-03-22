@@ -1,6 +1,6 @@
 ### Hi there, I'm Zaqueu! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&lines=Developer+%7C+Open-Source+Enthusiast+%7C+Linux+User;React.js+%7C+Next.js+%7C+Arch+Linux;Building+Cool+Projects+With+Code;Studying+Computer+Science...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&lines=Developer+%7C+Open-Source+Enthusiast+%7C+Linux+User;React.js+%7C+Next.js+%7C+Typescript;Building+Cool+Projects+With+Code;Studying+Computer+Science...)
 
 ---
 
@@ -46,11 +46,6 @@
     <a href="https://web.telegram.org/k/#zaqueu-dev" target="_blank"><img src="https://img.shields.io/badge/Telegram-1f7a1f?style=for-the-badge&logo=telegram&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/zaqueunilton/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1f7a1f?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-
----
-
-### 🎵 Now Playing
-[![Spotify](https://novatorem-zaqueu-dev.vercel.app/api/spotify)](https://open.spotify.com/user/316gqsmoiyevygvpm5oduqtvyswm)
 
 ---
 
