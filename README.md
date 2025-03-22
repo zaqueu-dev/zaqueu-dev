@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2ecc71&height=120&section=header"/>
 
-<h1 align="center">Hey there! 👋 I'm Your Name</h1>
+<h1 align="center">Hey there! 👋 I'm Zaqueu Nilton</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=2ecc71&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;React.js+Developer+%7C+Linux+Enthusiast;Passionate+about+Open+Source+and+Technology"/>
@@ -41,8 +41,8 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&hide=html&layout=compact&langs_count=10&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zaqueu-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaqueu-dev&hide=html&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
 ---
@@ -54,13 +54,13 @@
 
 ## 📬 Contact Me:
 <div align="center">  
-    <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-2ecc71?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://web.telegram.org/k/#yourusername" target="_blank"><img src="https://img.shields.io/badge/Telegram-2ecc71?style=for-the-badge&logo=telegram&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/yourprofile/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2ecc71?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="mailto:zaqueunilton1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-2ecc71?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://web.telegram.org/k/#isccnewt" target="_blank"><img src="https://img.shields.io/badge/Telegram-2ecc71?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/zaqueunilton/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2ecc71?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github.com/davigledson/davigledson/blob/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2ecc71&height=120&section=footer"/>
