@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 - 🎓 **Computer Science Student**
-- 🔬 **TCC Project:** "The Use of Ultrasonic Sensors in Digital and Mechanical Locks for Complex Security Systems"
+- 🔬 **Technical Electricity Engineering TCC Project:** "The Use of Ultrasonic Sensors in Digital and Mechanical Locks for Complex Security Systems"
 - 💡 **Interests:** Open Source, Linux (Arch Linux ❤️), English, German, and Music 🎵
 - 💻 **Tech Enthusiast:** Love building projects with React, Next.js, and full-stack JavaScript
 
