@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f96d00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f96d00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Zaqueu+Nilton;A+passionate+developer;Focused+on+React+and+Web+Technologies;Open+Source+enthusiast;Welcome!+to+my+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f96d00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Zaqueu+Nilton;A+passionate+developer;Focused+on+Javascript;Open+Source+enthusiast;Welcome!+to+my+Github)](https://git.io/typing-svg)
 
 ![Coding GIF](https://cdna.artstation.com/p/assets/images/images/035/682/306/original/igor-freitas-8-bit-comfy-night10803.gif?1615596413)
 
