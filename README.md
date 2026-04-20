@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img height="260" src="https://github-readme-stats.vercel.app/api?username=archydre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&border_radius=12&title_color=f96d00&icon_color=f96d00&text_color=ffffff&bg_color=0d1117"/>
+<img height="260" src="https://github-readme-stats.vercel.app/api?username=archydre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&rank_icon=github&border_radius=12&title_color=f96d00&icon_color=f96d00&text_color=ffffff&bg_color=0d1117"/>
 &nbsp;
 <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archydre&layout=donut&theme=tokyonight&langs_count=6&hide=html,css&border_radius=12&size_weight=0.5&count_weight=0.5&title_color=f96d00&icon_color=f96d00&text_color=ffffff&bg_color=0d1117"/>
 
